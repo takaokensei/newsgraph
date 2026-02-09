@@ -1,0 +1,8 @@
+pandas
+neo4j
+langchain
+langchain-community
+python-dotenv
+openai
+google-generativeai
+groq

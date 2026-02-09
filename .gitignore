@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Neo4j / Docker Volumes
+data/
+logs/
+plugins/
+import/
+
+# IDEs
+.vscode/
+.idea/
+
+# Artifacts
+images/
+*.png
